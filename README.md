@@ -3,7 +3,7 @@
 
 - 👨‍💻 Todos mis proyectos realizados hasta el momento [https://github.com/damian-arrieta](https://github.com/damian-arrieta)
 
-- 💬 Ask me about **ReactJS, Angular, JavaScript, HTML, CSS**
+- 💬 Ask me about **ReactJS, Angular, JavaScript, TypeScript, HTML, CSS**
 
 - 📫 Puedes escribirme a: **arrdamian@icloud.com**
 
