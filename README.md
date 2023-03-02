@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, soy Damián Arrieta</h1>
 <h3 align="center">Soy un Frontend Developer y Backend developer en curso</h3>
 
+- 🌐 Te invito a mi Portfolio [https://damian-arrieta.com/](https://damian-arrieta.com)
+
 - 👨‍💻 Todos mis proyectos realizados hasta el momento [https://github.com/damian-arrieta](https://github.com/damian-arrieta)
 
 - 💬 Ask me about **ReactJS, Angular, JavaScript, TypeScript, HTML, CSS**
 
-- 📫 Puedes escribirme a: **arrdamian@icloud.com**
+- 📫 Puedes escribirme a: *contacto@damian-arrieta.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
