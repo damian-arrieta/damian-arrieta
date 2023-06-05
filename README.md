@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, soy Damián Arrieta</h1>
+<h1 align="center">Hola 👋, soy Damián Arrieta</h1>
 <h3 align="center">Soy un Frontend Developer y Backend developer en curso</h3>
 
 - 🌐 Te invito a mi Portfolio [https://damian-arrieta.com/](https://damian-arrieta.com)
 
 - 👨‍💻 Todos mis proyectos realizados hasta el momento [https://github.com/damian-arrieta](https://github.com/damian-arrieta)
 
-- 💬 Ask me about **ReactJS, Angular, JavaScript, TypeScript, HTML, CSS**
+- 💬 Puedes consultarme por: **ReactJS, Angular, JavaScript, TypeScript, HTML, CSS**
 
 - 📫 Puedes escribirme a: *contacto@damian-arrieta.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/darrietadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darrietadev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/damian-arrieta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damian-arrieta" height="30" width="40" /></a>
 </p>
 
