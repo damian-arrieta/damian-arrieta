@@ -7,7 +7,7 @@
 
 - 💬 Puedes consultarme por: **ReactJS, Angular, JavaScript, TypeScript, HTML, CSS**
 
-- 📫 Puedes escribirme a: *contacto@damian-arrieta.com**
+- 📫 Puedes escribirme a: *cdamianarrieta@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
