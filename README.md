@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, soy Damián Arrieta</h1>
-<h3 align="center">Soy un Frontend Developer y Backend developer en curso</h3>
-
-- 🌐 Te invito a mi Portfolio [https://damian-arrieta.com/](https://damian-arrieta.com)
+<h3 align="center">Soy un Frontend Developero</h3>
 
 - 👨‍💻 Todos mis proyectos realizados hasta el momento [https://github.com/damian-arrieta](https://github.com/damian-arrieta)
 
